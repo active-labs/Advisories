@@ -4,3 +4,4 @@ ACTIVELabs believes that coordinated, responsible disclosure of security vulnera
 ## Advisories 
 [ [ACTIVE-2019-001]  Fileless UAC Bypass in Windows Store Binary ](https://github.com/active-labs/advisories/blob/master/ACTIVE-2019-001.md)
 
+[ [ACTIVE-2019-002]  KioWare Server Privilege Escalation Vulnerability ](https://github.com/active-labs/Advisories/blob/master/ACTIVE-2019-002.md)
