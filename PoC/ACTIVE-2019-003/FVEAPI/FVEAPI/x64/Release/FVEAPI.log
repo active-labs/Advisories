@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  FVEAPI.cpp
+     Creating library C:\Users\hjawad\source\repos\FVEAPI\x64\Release\FVEAPI.lib and object C:\Users\hjawad\source\repos\FVEAPI\x64\Release\FVEAPI.exp
+  Generating code
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FVEAPI.vcxproj -> C:\Users\hjawad\source\repos\FVEAPI\x64\Release\FVEAPI.dll
