@@ -10,3 +10,5 @@ ACTIVELabs believes that coordinated, responsible disclosure of security vulnera
 
 ## Proof of Concept
 [ [ACTIVE-2019-001]  Invoke-WSResetBypass.ps1 PoC](https://github.com/active-labs/Advisories/blob/master/PoC/ACTIVE-2019-001/Invoke-WSResetBypass.ps1)
+
+[ [ACTIVE-2019-003]  FVEAPI.dll PoC](https://github.com/active-labs/Advisories/tree/master/PoC/ACTIVE-2019-003/FVEAPI)
