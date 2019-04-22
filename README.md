@@ -8,6 +8,8 @@ ACTIVELabs believes that coordinated, responsible disclosure of security vulnera
 
 [ [ACTIVE-2019-003]  UAC Bypass in System Reset Binary via DLL Hijacking ](https://github.com/active-labs/Advisories/blob/master/ACTIVE-2019-003.md)
 
+[ [ACTIVE-2019-004]  TeamSpeak 3 Client URI Handler Remote Command Execution ](https://github.com/active-labs/Advisories/blob/master/ACTIVE-2019-004.md)
+
 ## Proof of Concept
 [ [ACTIVE-2019-001]  Invoke-WSResetBypass.ps1 PoC](https://github.com/active-labs/Advisories/blob/master/PoC/ACTIVE-2019-001/Invoke-WSResetBypass.ps1)
 
