@@ -36,6 +36,8 @@ ACTIVELabs believes that coordinated, responsible disclosure of security vulnera
 
 [ [ACTIVE-2020-003]  Trident Z Lighting Control Driver Local Privilege Escalation ](https://github.com/active-labs/Advisories/blob/master/2020/ACTIVE-2020-003.md)
 
+[ [ACTIVE-2020-004]  IDrive Local Privilege Escalation ](https://github.com/active-labs/Advisories/blob/master/2020/ACTIVE-2020-004.md)
+
 ## Proof of Concept
 [ [ACTIVE-2019-001]  Invoke-WSResetBypass.ps1 PoC](https://github.com/active-labs/Advisories/blob/master/PoC/ACTIVE-2019-001/Invoke-WSResetBypass.ps1)
 
