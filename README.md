@@ -40,6 +40,8 @@ ACTIVELabs believes that coordinated, responsible disclosure of security vulnera
 
 [ [ACTIVE-2020-005]  Overwolf Symbolic Link Privilege Escalation ](https://github.com/active-labs/Advisories/blob/master/2020/ACTIVE-2020-005.md)
 
+[ [ACTIVE-2020-006]  Windows AppX Deployment Service Local Privilege Escalation ](https://github.com/active-labs/Advisories/blob/master/2020/ACTIVE-2020-006.md)
+
 ## Proof of Concept
 [ [ACTIVE-2019-001]  Invoke-WSResetBypass.ps1 PoC](https://github.com/active-labs/Advisories/blob/master/PoC/ACTIVE-2019-001/Invoke-WSResetBypass.ps1)
 
