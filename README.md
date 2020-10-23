@@ -44,6 +44,8 @@ ACTIVELabs believes that coordinated, responsible disclosure of security vulnera
 
 [ [ACTIVE-2020-007]  NVIDIA GeForce Experience Arbitrary File Creation ](https://github.com/active-labs/Advisories/blob/master/2020/ACTIVE-2020-007.md)
 
+[ [ACTIVE-2020-008]  NVIDIA GeForce Experience Local Privilege Escalation ](https://github.com/active-labs/Advisories/blob/master/2020/ACTIVE-2020-008.md)
+
 ## Proof of Concept
 [ [ACTIVE-2019-001]  Invoke-WSResetBypass.ps1 PoC](https://github.com/active-labs/Advisories/blob/master/PoC/ACTIVE-2019-001/Invoke-WSResetBypass.ps1)
 
