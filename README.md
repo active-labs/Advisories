@@ -46,6 +46,9 @@ ACTIVELabs believes that coordinated, responsible disclosure of security vulnera
 
 [ [ACTIVE-2020-008]  NVIDIA GeForce Experience Local Privilege Escalation ](https://github.com/active-labs/Advisories/blob/master/2020/ACTIVE-2020-008.md)
 
+### 2021
+[ [ACTIVE-2021-001]  NoMachine for Windows Local Privilege Escalation ](https://github.com/active-labs/Advisories/blob/master/2021/ACTIVE-2021-001.md)
+
 ## Proof of Concept
 [ [ACTIVE-2019-001]  Invoke-WSResetBypass.ps1 PoC](https://github.com/active-labs/Advisories/blob/master/PoC/ACTIVE-2019-001/Invoke-WSResetBypass.ps1)
 
